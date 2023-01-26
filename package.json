@@ -23,9 +23,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "engines": {
-    "node": ">=18.13.0"
-  },
   "dependencies": {
     "@astrojs/prefetch": "0.1.1",
     "@astrojs/tailwind": "2.1.3",
