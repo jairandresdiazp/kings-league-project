@@ -4,7 +4,7 @@
 
 [![Deploy API](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/deploy-api.yml/badge.svg?branch=main)](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/deploy-api.yml) [![Scrape Kings League Infojobs Website](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/scrape-kings-league-web.yml/badge.svg?branch=main)](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/scrape-kings-league-web.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<h2><a href='https://api.kingsleague.dev/'>API</a> | <a href='https://kingsleague.dev'>WEB</a></h2>
+<h2><a href='https://kings-league-api.jairandresdiazp.workers.dev'>API</a> | <a href='https://kingsleague.dev'>WEB</a></h2>
 </div>
 
 ![Mockup API Web](assets/static/ui-mockup-web-api.png)
@@ -12,13 +12,13 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#38](https://github.com/jairandresdiazp/aprendiendo-react/pull/38) in [jairandresdiazp/aprendiendo-react](https://github.com/jairandresdiazp/aprendiendo-react)
 2. 🎉 Merged PR [#37](https://github.com/jairandresdiazp/aprendiendo-react/pull/37) in [jairandresdiazp/aprendiendo-react](https://github.com/jairandresdiazp/aprendiendo-react)
 3. 🎉 Merged PR [#64](https://github.com/jairandresdiazp/preguntas-entrevista-react/pull/64) in [jairandresdiazp/preguntas-entrevista-react](https://github.com/jairandresdiazp/preguntas-entrevista-react)
 4. 🎉 Merged PR [#67](https://github.com/jairandresdiazp/preguntas-entrevista-react/pull/67) in [jairandresdiazp/preguntas-entrevista-react](https://github.com/jairandresdiazp/preguntas-entrevista-react)
 5. 🎉 Merged PR [#4](https://github.com/jairandresdiazp/libros-programacion-gratis/pull/4) in [jairandresdiazp/libros-programacion-gratis](https://github.com/jairandresdiazp/libros-programacion-gratis)
 <!--END_SECTION:activity-->
-
 
 <details>
   <summary>Sumario</summary>
@@ -36,12 +36,9 @@
   </ol>
 </details>
 
-
-
 [![English](https://img.shields.io/badge/language-English-blue.svg)](README.en.md)
 
 [![kings league project](https://jordinodejs.vercel.app/api/pin/?username=jairandresdiazp&repo=kings-league-project&theme=calm&bg_color=ff7b25&title_color=000000&icon_color=d64161&border_color=d64161&text_color=eeeee4)](https://github.com/jairandresdiazp/kings-league-project)
-
 
 ## Descripción del proyecto
 
@@ -51,9 +48,9 @@ La API proporciona acceso a datos de equipos, presidentes, entrenadores, goleado
 
 ## Tecnologías usadas
 
-Para recuperar los datos de la API, usamos *Web Scraping*, [Node.js](https://nodejs.org/es/), [Hono](https://honojs.dev/) y el servicio de hosting de APIs [Cloudflare Workers](https://workers.cloudflare.com/) para la construcción y el despliegue.
+Para recuperar los datos de la API, usamos _Web Scraping_, [Node.js](https://nodejs.org/es/), [Hono](https://honojs.dev/) y el servicio de hosting de APIs [Cloudflare Workers](https://workers.cloudflare.com/) para la construcción y el despliegue.
 
-La página web está desarrollada con el framework [Astro](https://astro.build/) y utilizamos el framework [CSS Tailwind](https://tailwindcss.com/) para estilizar la interfaz de usuario. Además, hemos utilizado la librería [Cheerio](https://github.com/cheeriojs/cheerio) para realizar *Web Scraping* y obtener datos de la **Kings League Infojobs**.
+La página web está desarrollada con el framework [Astro](https://astro.build/) y utilizamos el framework [CSS Tailwind](https://tailwindcss.com/) para estilizar la interfaz de usuario. Además, hemos utilizado la librería [Cheerio](https://github.com/cheeriojs/cheerio) para realizar _Web Scraping_ y obtener datos de la **Kings League Infojobs**.
 
 Para probar y validar el funcionamiento de la aplicación, hemos utilizado la librería de pruebas [Vitest](https://vitest.dev/).
 
@@ -61,7 +58,7 @@ Si quieres ayudarnos, por favor toma un momento para leer el archivo [CONTRIBUTI
 
 ## API
 
-Dirección: https://api.kingsleague.dev/
+Dirección: https://kings-league-api.jairandresdiazp.workers.dev
 
 Los endpoints disponibles son:
 
