@@ -39,8 +39,8 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:
-          author_name: kings-league-bot
-          author_email: bot@kingsleague.dev
+          author_name: bot
+          author_email: jairandresdiazp@gmail.com
           message: 'Update Lighthouse badges [skip ci]'
           add: 'test_results'
           push: true
