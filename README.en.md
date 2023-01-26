@@ -1,7 +1,7 @@
 <div align="center">
 <h1>👑 Kings League Infojobs Project ⚽️</h1>
 
-[![Deploy API](https://github.com/midudev/kings-league-project/actions/workflows/deploy-api.yml/badge.svg?branch=main)](https://github.com/midudev/kings-league-project/actions/workflows/deploy-api.yml) [![Scrape Kings League Infojobs Website](https://github.com/midudev/kings-league-project/actions/workflows/scrape-kings-league-web.yml/badge.svg?branch=main)](https://github.com/midudev/kings-league-project/actions/workflows/scrape-kings-league-web.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Deploy API](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/deploy-api.yml/badge.svg?branch=main)](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/deploy-api.yml) [![Scrape Kings League Infojobs Website](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/scrape-kings-league-web.yml/badge.svg?branch=main)](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/scrape-kings-league-web.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <h2><a href='https://api.kingsleague.dev/'>API</a> | <a href='https://kingsleague.dev'>WEB</a></h2>
 </div>
@@ -27,7 +27,7 @@
 
 [![Spanish](https://img.shields.io/badge/language-Spanish-blue.svg)](README.md)
 
-[![kings league project](https://jordinodejs.vercel.app/api/pin/?username=midudev&repo=kings-league-project&theme=calm&bg_color=ff7b25&title_color=000000&icon_color=d64161&border_color=d64161&text_color=eeeee4)](https://github.com/midudev/kings-league-project)
+[![kings league project](https://jordinodejs.vercel.app/api/pin/?username=jairandresdiazp&repo=kings-league-project&theme=calm&bg_color=ff7b25&title_color=000000&icon_color=d64161&border_color=d64161&text_color=eeeee4)](https://github.com/jairandresdiazp/kings-league-project)
 ## Project Description
 
 This project aims to create an API and web page for the [Kings League Infojobs](https://kingsleague.pro) for educational purposes.
@@ -42,7 +42,7 @@ The web page is developed using the [Astro](https://astro.build/) framework and 
 
 To test and validate the functionality of the application, we have used the [Vitest](https://vitest.dev/) testing library.
 
-If you would like to help us, please take a moment to read the [CONTRIBUTING.md](https://github.com/midudev/kings-league-project/blob/main/CONTRIBUTING.md) file. You will find useful information there on how to effectively contribute and follow our style guides. We hope you enjoy collaborating with us!
+If you would like to help us, please take a moment to read the [CONTRIBUTING.md](https://github.com/jairandresdiazp/kings-league-project/blob/main/CONTRIBUTING.md) file. You will find useful information there on how to effectively contribute and follow our style guides. We hope you enjoy collaborating with us!
 
 ## API
 
@@ -71,20 +71,20 @@ The available endpoints are:
 
 Follow us on our Twitch channel to see how we are progressing in the development of the project or follow us on YouTube for more content about full-stack development!
 
-- [Twitch](https://twitch.tv/midudev)
-- [YouTube](https://www.youtube.com/c/midudev)
+- [Twitch](https://twitch.tv/jairandresdiazp)
+- [YouTube](https://www.youtube.com/c/jairandresdiazp)
 
-You can also join our community on [Discord](https://discord.gg/midudev)
+You can also join our community on [Discord](https://discord.gg/jairandresdiazp)
 
 ## LightHouse
 
-[![Lighthouse Performance Badge](./test_results/lighthouse_performance.svg)](https://github.com/midudev/kings-league-project)
-[![Lighthouse Accessibility Badge](./test_results/lighthouse_accessibility.svg)](https://github.com/midudev/kings-league-project)
-[![Lighthouse Best Practices Badge](./test_results/lighthouse_best-practices.svg)](https://github.com/midudev/kings-league-project)
-[![Lighthouse SEO Badge](./test_results/lighthouse_seo.svg)](https://github.com/midudev/kings-league-project)
+[![Lighthouse Performance Badge](./test_results/lighthouse_performance.svg)](https://github.com/jairandresdiazp/kings-league-project)
+[![Lighthouse Accessibility Badge](./test_results/lighthouse_accessibility.svg)](https://github.com/jairandresdiazp/kings-league-project)
+[![Lighthouse Best Practices Badge](./test_results/lighthouse_best-practices.svg)](https://github.com/jairandresdiazp/kings-league-project)
+[![Lighthouse SEO Badge](./test_results/lighthouse_seo.svg)](https://github.com/jairandresdiazp/kings-league-project)
 
 ## About Author
 
-<p>&nbsp;<img align="center" src="https://jordinodejs.vercel.app/api?username=midudev&show_icons=true&locale=en&theme=calm" alt="midudev" /></p>
+<p>&nbsp;<img align="center" src="https://jordinodejs.vercel.app/api?username=jairandresdiazp&show_icons=true&locale=en&theme=calm" alt="jairandresdiazp" /></p>
 
-<p><img align="left" src="https://jordinodejs.vercel.app/api/top-langs?username=midudev&show_icons=true&locale=en&layout=compact&theme=calm&langs_count=8&hide=php,coffeescript" alt="midudev" /></p>
+<p><img align="left" src="https://jordinodejs.vercel.app/api/top-langs?username=jairandresdiazp&show_icons=true&locale=en&layout=compact&theme=calm&langs_count=8&hide=php,coffeescript" alt="jairandresdiazp" /></p>

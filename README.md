@@ -2,7 +2,7 @@
 <h1>👑 Kings League Infojobs Project ⚽️</h1>
 <h2>Esta web sólo está creada para fines educativos. Kosmos Holdings es el dueño de todos los logos de la Kings League. Este proyecto no tiene ánimo de lucro y no se hace responsable del uso que se pueda hacer del mismo.</h2>
 
-[![Deploy API](https://github.com/midudev/kings-league-project/actions/workflows/deploy-api.yml/badge.svg?branch=main)](https://github.com/midudev/kings-league-project/actions/workflows/deploy-api.yml) [![Scrape Kings League Infojobs Website](https://github.com/midudev/kings-league-project/actions/workflows/scrape-kings-league-web.yml/badge.svg?branch=main)](https://github.com/midudev/kings-league-project/actions/workflows/scrape-kings-league-web.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Deploy API](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/deploy-api.yml/badge.svg?branch=main)](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/deploy-api.yml) [![Scrape Kings League Infojobs Website](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/scrape-kings-league-web.yml/badge.svg?branch=main)](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/scrape-kings-league-web.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <h2><a href='https://api.kingsleague.dev/'>API</a> | <a href='https://kingsleague.dev'>WEB</a></h2>
 </div>
@@ -12,11 +12,11 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/midudev/aprendiendo-react/pull/38) in [midudev/aprendiendo-react](https://github.com/midudev/aprendiendo-react)
-2. 🎉 Merged PR [#37](https://github.com/midudev/aprendiendo-react/pull/37) in [midudev/aprendiendo-react](https://github.com/midudev/aprendiendo-react)
-3. 🎉 Merged PR [#64](https://github.com/midudev/preguntas-entrevista-react/pull/64) in [midudev/preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react)
-4. 🎉 Merged PR [#67](https://github.com/midudev/preguntas-entrevista-react/pull/67) in [midudev/preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react)
-5. 🎉 Merged PR [#4](https://github.com/midudev/libros-programacion-gratis/pull/4) in [midudev/libros-programacion-gratis](https://github.com/midudev/libros-programacion-gratis)
+1. 🎉 Merged PR [#38](https://github.com/jairandresdiazp/aprendiendo-react/pull/38) in [jairandresdiazp/aprendiendo-react](https://github.com/jairandresdiazp/aprendiendo-react)
+2. 🎉 Merged PR [#37](https://github.com/jairandresdiazp/aprendiendo-react/pull/37) in [jairandresdiazp/aprendiendo-react](https://github.com/jairandresdiazp/aprendiendo-react)
+3. 🎉 Merged PR [#64](https://github.com/jairandresdiazp/preguntas-entrevista-react/pull/64) in [jairandresdiazp/preguntas-entrevista-react](https://github.com/jairandresdiazp/preguntas-entrevista-react)
+4. 🎉 Merged PR [#67](https://github.com/jairandresdiazp/preguntas-entrevista-react/pull/67) in [jairandresdiazp/preguntas-entrevista-react](https://github.com/jairandresdiazp/preguntas-entrevista-react)
+5. 🎉 Merged PR [#4](https://github.com/jairandresdiazp/libros-programacion-gratis/pull/4) in [jairandresdiazp/libros-programacion-gratis](https://github.com/jairandresdiazp/libros-programacion-gratis)
 <!--END_SECTION:activity-->
 
 
@@ -40,7 +40,7 @@
 
 [![English](https://img.shields.io/badge/language-English-blue.svg)](README.en.md)
 
-[![kings league project](https://jordinodejs.vercel.app/api/pin/?username=midudev&repo=kings-league-project&theme=calm&bg_color=ff7b25&title_color=000000&icon_color=d64161&border_color=d64161&text_color=eeeee4)](https://github.com/midudev/kings-league-project)
+[![kings league project](https://jordinodejs.vercel.app/api/pin/?username=jairandresdiazp&repo=kings-league-project&theme=calm&bg_color=ff7b25&title_color=000000&icon_color=d64161&border_color=d64161&text_color=eeeee4)](https://github.com/jairandresdiazp/kings-league-project)
 
 
 ## Descripción del proyecto
@@ -57,7 +57,7 @@ La página web está desarrollada con el framework [Astro](https://astro.build/)
 
 Para probar y validar el funcionamiento de la aplicación, hemos utilizado la librería de pruebas [Vitest](https://vitest.dev/).
 
-Si quieres ayudarnos, por favor toma un momento para leer el archivo [CONTRIBUTING.md](https://github.com/midudev/kings-league-project/blob/main/CONTRIBUTING.md). Allí encontrarás información útil sobre cómo contribuír de manera efectiva y cómo seguir nuestras guías de estilo. ¡Esperamos que disfrutes colaborando con nosotros!
+Si quieres ayudarnos, por favor toma un momento para leer el archivo [CONTRIBUTING.md](https://github.com/jairandresdiazp/kings-league-project/blob/main/CONTRIBUTING.md). Allí encontrarás información útil sobre cómo contribuír de manera efectiva y cómo seguir nuestras guías de estilo. ¡Esperamos que disfrutes colaborando con nosotros!
 
 ## API
 
@@ -86,20 +86,20 @@ Los endpoints disponibles son:
 
 ¡Síguenos en nuestro canal de Twitch para ver cómo avanzamos en el desarrollo del proyecto o síguenos en Youtube para más contenido acerca de desarrollo fullstack!
 
-- [Twitch](https://twitch.tv/midudev)
-- [YouTube](https://www.youtube.com/c/midudev)
+- [Twitch](https://twitch.tv/jairandresdiazp)
+- [YouTube](https://www.youtube.com/c/jairandresdiazp)
 
-o únete a la comunidad en [Discord](https://discord.gg/midudev)
+o únete a la comunidad en [Discord](https://discord.gg/jairandresdiazp)
 
 ## LightHouse
 
-[![Lighthouse Performance Badge](./test_results/lighthouse_performance.svg)](https://github.com/midudev/kings-league-project)
-[![Lighthouse Accessibility Badge](./test_results/lighthouse_accessibility.svg)](https://github.com/midudev/kings-league-project)
-[![Lighthouse Best Practices Badge](./test_results/lighthouse_best-practices.svg)](https://github.com/midudev/kings-league-project)
-[![Lighthouse SEO Badge](./test_results/lighthouse_seo.svg)](https://github.com/midudev/kings-league-project)
+[![Lighthouse Performance Badge](./test_results/lighthouse_performance.svg)](https://github.com/jairandresdiazp/kings-league-project)
+[![Lighthouse Accessibility Badge](./test_results/lighthouse_accessibility.svg)](https://github.com/jairandresdiazp/kings-league-project)
+[![Lighthouse Best Practices Badge](./test_results/lighthouse_best-practices.svg)](https://github.com/jairandresdiazp/kings-league-project)
+[![Lighthouse SEO Badge](./test_results/lighthouse_seo.svg)](https://github.com/jairandresdiazp/kings-league-project)
 
 ## Estadísticas Acerca del Autor
 
-<p>&nbsp;<img align="center" src="https://jordinodejs.vercel.app/api?username=midudev&show_icons=true&locale=es&theme=calm" alt="midudev" /></p>
+<p>&nbsp;<img align="center" src="https://jordinodejs.vercel.app/api?username=jairandresdiazp&show_icons=true&locale=es&theme=calm" alt="jairandresdiazp" /></p>
 
-<p><img align="left" src="https://jordinodejs.vercel.app/api/top-langs?username=midudev&show_icons=true&locale=es&layout=compact&theme=calm&langs_count=8&hide=php,coffeescript" alt="midudev" /></p>
+<p><img align="left" src="https://jordinodejs.vercel.app/api/top-langs?username=jairandresdiazp&show_icons=true&locale=es&layout=compact&theme=calm&langs_count=8&hide=php,coffeescript" alt="jairandresdiazp" /></p>
