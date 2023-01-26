@@ -38,8 +38,8 @@ const levelColors = {
 const color = levelColors[level]
 ---
 
-<script type="module">
-	import { toSvg } from 'html-to-image'
+<script>
+	import * as htmlToImage from 'html-to-image'
 
 	const handleDownload = (e) => {
 		const card = e.target.parentElement
@@ -49,7 +49,7 @@ const color = levelColors[level]
 		card.parentElement.insertBefore(container, card)
 		container.appendChild(card)
 		const name = card.querySelectorAll('img')[1]?.alt
-		toSvg(container).then((url) => {
+		htmlToImage.toSvg(container).then((url) => {
 			container.parentElement.insertBefore(card, container)
 			container.remove()
 			button.style.display = 'block'
