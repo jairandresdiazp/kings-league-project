@@ -4,7 +4,7 @@
 
 [![Deploy API](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/deploy-api.yml/badge.svg?branch=main)](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/deploy-api.yml) [![Scrape Kings League Infojobs Website](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/scrape-kings-league-web.yml/badge.svg?branch=main)](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/scrape-kings-league-web.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<h2><a href='https://kings-league-api.jairandresdiazp.workers.dev'>API</a> | <a href='https://kingsleague.dev'>WEB</a></h2>
+<h2><a href='https://kings-league-api-production.jairandresdiazp.workers.dev/'>API</a> | <a href='https://kingsleague.dev'>WEB</a></h2>
 </div>
 
 ![Mockup API Web](assets/static/ui-mockup-web-api.png)
@@ -54,7 +54,7 @@ Si quieres ayudarnos, por favor toma un momento para leer el archivo [CONTRIBUTI
 
 ## API
 
-Dirección: https://kings-league-api.jairandresdiazp.workers.dev
+Dirección: https://kings-league-api-production.jairandresdiazp.workers.dev/
 
 Los endpoints disponibles son:
 
@@ -74,15 +74,6 @@ Los endpoints disponibles son:
 - GET `/mvp`: Devuelve los MVPs de la Kings League.
 - GET `/schedule`: Devuelve el calendario de partidos de la Kings League y el resultado de los partidos jugados.
 - GET `/players-12`: Devuelve los jugadores 12 de la Kings League.
-
-## Redes Sociales
-
-¡Síguenos en nuestro canal de Twitch para ver cómo avanzamos en el desarrollo del proyecto o síguenos en Youtube para más contenido acerca de desarrollo fullstack!
-
-- [Twitch](https://twitch.tv/jairandresdiazp)
-- [YouTube](https://www.youtube.com/c/jairandresdiazp)
-
-o únete a la comunidad en [Discord](https://discord.gg/jairandresdiazp)
 
 ## LightHouse
 

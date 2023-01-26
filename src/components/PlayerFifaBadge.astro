@@ -38,26 +38,26 @@ const levelColors = {
 const color = levelColors[level]
 ---
 
-<script>
-	import { toSvg } from 'html-to-image';
-	
+<script type="module">
+	import { toSvg } from 'html-to-image'
+
 	const handleDownload = (e) => {
 		const card = e.target.parentElement
 		const container = document.createElement('div')
 		const button = e.target
-		button.style.display = 'none';
+		button.style.display = 'none'
 		card.parentElement.insertBefore(container, card)
 		container.appendChild(card)
 		const name = card.querySelectorAll('img')[1]?.alt
 		toSvg(container).then((url) => {
 			container.parentElement.insertBefore(card, container)
 			container.remove()
-			button.style.display = 'block';
-			const a = document.createElement('a');
-			a.href  = url
+			button.style.display = 'block'
+			const a = document.createElement('a')
+			a.href = url
 			a.download = `${name} Card`
-			document.body.appendChild(a);
-			a.click();
+			document.body.appendChild(a)
+			a.click()
 			a.remove()
 		})
 	}
