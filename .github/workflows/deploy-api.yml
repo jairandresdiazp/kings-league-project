@@ -43,7 +43,7 @@ jobs:
     runs-on: ubuntu-22.04
     timeout-minutes: 5
     name: Deploy API
-    if: github.repository_owner == 'midudev'
+    if: github.repository_owner == 'jairandresdiazp'
     environment: Production
     steps:
       - uses: actions/checkout@v3
