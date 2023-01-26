@@ -1,8 +1,8 @@
 ---
 import { getAllTeams } from '@services/teams.js'
 
-import Header from '@components/Header.astro'
 import Footer from '@components/Footer.astro'
+import Header from '@components/Header.astro'
 
 const {
 	title,
@@ -27,7 +27,7 @@ const teams = await getAllTeams()
 		<meta name="description" content={description} />
 		<meta property="og:title" content={seoTitle} />
 		<meta property="og:description" content={description} />
-		<meta property="og:image" content="https://kingsleague.dev/og/og.jpg" />
+		<meta property="og:image" content="https://kings-league-project-134.pages.dev/og/og.jpg" />
 		<meta property="og:url" content={Astro.url.href} />
 		<meta property="og:locale" content="es_ES" />
 		<meta property="og:type" content="website" />

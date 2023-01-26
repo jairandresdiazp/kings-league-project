@@ -1,5 +1,5 @@
+import { afterAll, beforeAll, describe, expect, it } from 'vitest'
 import { unstable_dev as unstableDev } from 'wrangler'
-import { describe, expect, it, beforeAll, afterAll } from 'vitest'
 
 const setup = async () => {
 	const worker = await unstableDev('api/index.js', {}, { disableExperimentalWarning: true })
@@ -15,7 +15,7 @@ const teardown = async (worker) => {
  * @param {*} subject Object to validate
  * @param {[{name: string, type: string}]} schema Properties schema
  */
-function checkProperties(subject, schema) {
+function checkProperties (subject, schema) {
 	schema.forEach((property) => {
 		const { name, type } = property
 		expect(subject).toHaveProperty(property.name)
@@ -206,7 +206,7 @@ describe('Testing /presidents route', () => {
 		const iker = {
 			id: 'iker-casillas',
 			name: 'Iker Casillas',
-			image: 'https://kingsleague.dev/presidents/iker-casillas.webp',
+			image: 'https://kings-league-project-134.pages.dev/presidents/iker-casillas.webp',
 			teamId: '1k'
 		}
 

@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { writeDBFile, TEAMS, PRESIDENTS, getImageFromTeam } from './index'
+import { getImageFromTeam, PRESIDENTS, TEAMS, writeDBFile } from './index'
 
 describe('testing db functionality', () => {
 	it('saves data to JSON file', () => {
@@ -11,6 +11,6 @@ describe('testing db functionality', () => {
 	})
 	it('returns team image', () => {
 		const image = getImageFromTeam({ name: '1K FC' })
-		expect(image).toBe('https://kingsleague.dev/teams/logos/1k.svg')
+		expect(image).toBe('https://kings-league-project-134.pages.dev/teams/logos/1k.svg')
 	})
 })
