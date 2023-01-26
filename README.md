@@ -14,10 +14,6 @@
 <!--START_SECTION:activity-->
 
 1. 💪 Opened PR [#325](https://github.com/midudev/kings-league-project/pull/325) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
-2. 🎉 Merged PR [#37](https://github.com/jairandresdiazp/aprendiendo-react/pull/37) in [jairandresdiazp/aprendiendo-react](https://github.com/jairandresdiazp/aprendiendo-react)
-3. 🎉 Merged PR [#64](https://github.com/jairandresdiazp/preguntas-entrevista-react/pull/64) in [jairandresdiazp/preguntas-entrevista-react](https://github.com/jairandresdiazp/preguntas-entrevista-react)
-4. 🎉 Merged PR [#67](https://github.com/jairandresdiazp/preguntas-entrevista-react/pull/67) in [jairandresdiazp/preguntas-entrevista-react](https://github.com/jairandresdiazp/preguntas-entrevista-react)
-5. 🎉 Merged PR [#4](https://github.com/jairandresdiazp/libros-programacion-gratis/pull/4) in [jairandresdiazp/libros-programacion-gratis](https://github.com/jairandresdiazp/libros-programacion-gratis)
 <!--END_SECTION:activity-->
 
 <details>
