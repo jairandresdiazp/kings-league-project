@@ -5,7 +5,7 @@
       "losses": 1,
       "scoredGoals": 14,
       "concededGoals": 7,
-      "yellowCards": 6,
+      "yellowCards": 3,
       "redCards": 1,
       "rank": 1,
       "team": {
@@ -33,11 +33,11 @@
       }
     },
     {
-      "wins": 4,
+      "wins": 5,
       "losses": 1,
       "scoredGoals": 13,
       "concededGoals": 8,
-      "yellowCards": 6,
+      "yellowCards": 2,
       "redCards": 0,
       "rank": 3,
       "team": {
@@ -69,7 +69,7 @@
       "losses": 3,
       "scoredGoals": 18,
       "concededGoals": 17,
-      "yellowCards": 1,
+      "yellowCards": 0,
       "redCards": 0,
       "rank": 5,
       "team": {
