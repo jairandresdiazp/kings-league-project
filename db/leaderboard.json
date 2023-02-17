@@ -1406,7 +1406,7 @@
     "scoredGoals": 20,
     "concededGoals": 25,
     "yellowCards": 2,
-    "redCards": 0,
+    "redCards": 1,
     "team": {
       "color": "#31585a",
       "id": "los-troncos-fc",

@@ -217,6 +217,14 @@
   },
   {
     "rank": 28,
+    "playerName": "Bernat",
+    "gamesPlayed": 6,
+    "goals": 2,
+    "team": "Aniquiladores FC",
+    "image": "https://kings-league-project-134.pages.dev/teams/logos/aniquiladores.svg"
+  },
+  {
+    "rank": 29,
     "playerName": "O. Boada",
     "gamesPlayed": 4,
     "goals": 2,
@@ -224,7 +232,7 @@
     "image": "https://kings-league-project-134.pages.dev/teams/logos/el-barrio.svg"
   },
   {
-    "rank": 29,
+    "rank": 30,
     "playerName": "Ros",
     "gamesPlayed": 6,
     "goals": 2,
@@ -232,7 +240,7 @@
     "image": "https://kings-league-project-134.pages.dev/teams/logos/el-barrio.svg"
   },
   {
-    "rank": 30,
+    "rank": 31,
     "playerName": "Alsina",
     "gamesPlayed": 5,
     "goals": 2,
@@ -240,7 +248,7 @@
     "image": "https://kings-league-project-134.pages.dev/teams/logos/jijantes.svg"
   },
   {
-    "rank": 31,
+    "rank": 32,
     "playerName": "Carlitos",
     "gamesPlayed": 6,
     "goals": 2,
@@ -248,7 +256,15 @@
     "image": "https://kings-league-project-134.pages.dev/teams/logos/pio.svg"
   },
   {
-    "rank": 32,
+    "rank": 33,
+    "playerName": "Pau Fer",
+    "gamesPlayed": 6,
+    "goals": 2,
+    "team": "PIO FC",
+    "image": "https://kings-league-project-134.pages.dev/teams/logos/pio.svg"
+  },
+  {
+    "rank": 34,
     "playerName": "Cokita",
     "gamesPlayed": 6,
     "goals": 2,
@@ -256,7 +272,7 @@
     "image": "https://kings-league-project-134.pages.dev/teams/logos/pio.svg"
   },
   {
-    "rank": 33,
+    "rank": 35,
     "playerName": "Lao",
     "gamesPlayed": 6,
     "goals": 2,
@@ -264,7 +280,7 @@
     "image": "https://kings-league-project-134.pages.dev/teams/logos/porcinos-fc.svg"
   },
   {
-    "rank": 34,
+    "rank": 36,
     "playerName": "Espinosa",
     "gamesPlayed": 4,
     "goals": 2,
@@ -272,7 +288,7 @@
     "image": "https://kings-league-project-134.pages.dev/teams/logos/porcinos-fc.svg"
   },
   {
-    "rank": 35,
+    "rank": 37,
     "playerName": "Kilian",
     "gamesPlayed": 6,
     "goals": 2,
@@ -280,7 +296,7 @@
     "image": "https://kings-league-project-134.pages.dev/teams/logos/porcinos-fc.svg"
   },
   {
-    "rank": 36,
+    "rank": 38,
     "playerName": "D. Vilà",
     "gamesPlayed": 6,
     "goals": 2,
@@ -288,7 +304,7 @@
     "image": "https://kings-league-project-134.pages.dev/teams/logos/rayo-barcelona.svg"
   },
   {
-    "rank": 37,
+    "rank": 39,
     "playerName": "M. Reyes",
     "gamesPlayed": 6,
     "goals": 2,
@@ -296,7 +312,7 @@
     "image": "https://kings-league-project-134.pages.dev/teams/logos/rayo-barcelona.svg"
   },
   {
-    "rank": 38,
+    "rank": 40,
     "playerName": "Gio Ferinu",
     "gamesPlayed": 4,
     "goals": 2,
@@ -304,7 +320,7 @@
     "image": "https://kings-league-project-134.pages.dev/teams/logos/saiyans-fc.svg"
   },
   {
-    "rank": 39,
+    "rank": 41,
     "playerName": "Feliu",
     "gamesPlayed": 6,
     "goals": 2,
@@ -312,7 +328,7 @@
     "image": "https://kings-league-project-134.pages.dev/teams/logos/saiyans-fc.svg"
   },
   {
-    "rank": 40,
+    "rank": 42,
     "playerName": "Román",
     "gamesPlayed": 6,
     "goals": 1,
@@ -320,7 +336,7 @@
     "image": "https://kings-league-project-134.pages.dev/teams/logos/1k.svg"
   },
   {
-    "rank": 41,
+    "rank": 43,
     "playerName": "Sauras",
     "gamesPlayed": 6,
     "goals": 1,
@@ -328,7 +344,7 @@
     "image": "https://kings-league-project-134.pages.dev/teams/logos/1k.svg"
   },
   {
-    "rank": 42,
+    "rank": 44,
     "playerName": "Pluvins",
     "gamesPlayed": 6,
     "goals": 1,
@@ -336,7 +352,7 @@
     "image": "https://kings-league-project-134.pages.dev/teams/logos/1k.svg"
   },
   {
-    "rank": 43,
+    "rank": 45,
     "playerName": "Marino",
     "gamesPlayed": 6,
     "goals": 1,
@@ -344,24 +360,8 @@
     "image": "https://kings-league-project-134.pages.dev/teams/logos/1k.svg"
   },
   {
-    "rank": 44,
-    "playerName": "Nadir",
-    "gamesPlayed": 6,
-    "goals": 1,
-    "team": "Aniquiladores FC",
-    "image": "https://kings-league-project-134.pages.dev/teams/logos/aniquiladores.svg"
-  },
-  {
-    "rank": 45,
-    "playerName": "Goku",
-    "gamesPlayed": 1,
-    "goals": 1,
-    "team": "Aniquiladores FC",
-    "image": "https://kings-league-project-134.pages.dev/teams/logos/aniquiladores.svg"
-  },
-  {
     "rank": 46,
-    "playerName": "Bernat",
+    "playerName": "Nadir",
     "gamesPlayed": 2,
     "goals": 1,
     "team": "Aniquiladores FC",
@@ -369,6 +369,22 @@
   },
   {
     "rank": 47,
+    "playerName": "Goku",
+    "gamesPlayed": 1,
+    "goals": 1,
+    "team": "Aniquiladores FC",
+    "image": "https://kings-league-project-134.pages.dev/teams/logos/aniquiladores.svg"
+  },
+  {
+    "rank": 48,
+    "playerName": "Daniel P.",
+    "gamesPlayed": 6,
+    "goals": 1,
+    "team": "Aniquiladores FC",
+    "image": "https://kings-league-project-134.pages.dev/teams/logos/aniquiladores.svg"
+  },
+  {
+    "rank": 49,
     "playerName": "Beguer",
     "gamesPlayed": 6,
     "goals": 1,
@@ -376,25 +392,9 @@
     "image": "https://kings-league-project-134.pages.dev/teams/logos/el-barrio.svg"
   },
   {
-    "rank": 48,
+    "rank": 50,
     "playerName": "Ibai",
     "gamesPlayed": 1,
-    "goals": 1,
-    "team": "Jijantes FC",
-    "image": "https://kings-league-project-134.pages.dev/teams/logos/jijantes.svg"
-  },
-  {
-    "rank": 49,
-    "playerName": "Nando",
-    "gamesPlayed": 1,
-    "goals": 1,
-    "team": "Jijantes FC",
-    "image": "https://kings-league-project-134.pages.dev/teams/logos/jijantes.svg"
-  },
-  {
-    "rank": 50,
-    "playerName": "Maca",
-    "gamesPlayed": 6,
     "goals": 1,
     "team": "Jijantes FC",
     "image": "https://kings-league-project-134.pages.dev/teams/logos/jijantes.svg"
