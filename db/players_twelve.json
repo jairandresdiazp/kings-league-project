@@ -336,20 +336,6 @@
     }
   },
   {
-    "role": "Delantero",
-    "firstName": "Ibai",
-    "lastName": "Gómez",
-    "image": "jijantes-fc-11.webp",
-    "name": "Ibai Gómez",
-    "id": "jijantes-fc-11",
-    "team": {
-      "id": "jijantes-fc",
-      "name": "Jijantes FC",
-      "image": "https://kings-league-project-134.pages.dev/teams/logos/jijantes.svg",
-      "imageWhite": "https://kings-league-project-134.pages.dev/teams/logos/jijantes-inverse.svg"
-    }
-  },
-  {
     "role": "Medio",
     "firstName": "Víctor",
     "lastName": "Sánchez",
@@ -417,6 +403,20 @@
       "name": "Aniquiladores FC",
       "image": "https://kings-league-project-134.pages.dev/teams/logos/aniquiladores.svg",
       "imageWhite": "https://kings-league-project-134.pages.dev/teams/logos/aniquiladores-inverse.svg"
+    }
+  },
+  {
+    "role": "Delantero",
+    "firstName": "Ibai",
+    "lastName": "Gómez",
+    "image": "jijantes-fc-11.webp",
+    "name": "Ibai Gómez",
+    "id": "jijantes-fc-11",
+    "team": {
+      "id": "jijantes-fc",
+      "name": "Jijantes FC",
+      "image": "https://kings-league-project-134.pages.dev/teams/logos/jijantes.svg",
+      "imageWhite": "https://kings-league-project-134.pages.dev/teams/logos/jijantes-inverse.svg"
     }
   },
   {
