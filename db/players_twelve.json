@@ -1,6 +1,34 @@
 [
   {
     "role": "Delantero",
+    "firstName": "Gerard",
+    "lastName": "Tejedor",
+    "image": "kunisports-Kunisports_20.webp",
+    "name": "Gerard Tejedor",
+    "id": "kunisports-Kunisports_20",
+    "team": {
+      "id": "kunisports",
+      "name": "Kunisports",
+      "image": "https://kings-league-project-134.pages.dev/teams/logos/kunisports.svg",
+      "imageWhite": "https://kings-league-project-134.pages.dev/teams/logos/kunisports-inverse.svg"
+    }
+  },
+  {
+    "role": "Delantero",
+    "firstName": "Adrià",
+    "lastName": "de Mesa",
+    "image": "ultimate-mostoles-U.webp",
+    "name": "Adrià de Mesa",
+    "id": "ultimate-mostoles-U",
+    "team": {
+      "id": "ultimate-mostoles",
+      "name": "Ultimate Móstoles",
+      "image": "https://kings-league-project-134.pages.dev/teams/logos/ultimate-mostoles.svg",
+      "imageWhite": "https://kings-league-project-134.pages.dev/teams/logos/ultimate-mostoles-inverse.svg"
+    }
+  },
+  {
+    "role": "Delantero",
     "firstName": "Mauricio",
     "lastName": "del Castillo",
     "image": "kunisports-Kunisports_96.webp",
@@ -392,48 +420,6 @@
     }
   },
   {
-    "role": "Medio",
-    "firstName": "Javi",
-    "lastName": "Márquez",
-    "image": "pio-fc-5.webp",
-    "name": "Javi Márquez",
-    "id": "pio-fc-5",
-    "team": {
-      "id": "pio-fc",
-      "name": "PIO FC",
-      "image": "https://kings-league-project-134.pages.dev/teams/logos/pio.svg",
-      "imageWhite": "https://kings-league-project-134.pages.dev/teams/logos/pio-inverse.svg"
-    }
-  },
-  {
-    "role": "Medio",
-    "firstName": "Rubén",
-    "lastName": "de la Red",
-    "image": "ultimate-mostoles-8.webp",
-    "name": "Rubén de la Red",
-    "id": "ultimate-mostoles-8",
-    "team": {
-      "id": "ultimate-mostoles",
-      "name": "Ultimate Móstoles",
-      "image": "https://kings-league-project-134.pages.dev/teams/logos/ultimate-mostoles.svg",
-      "imageWhite": "https://kings-league-project-134.pages.dev/teams/logos/ultimate-mostoles-inverse.svg"
-    }
-  },
-  {
-    "role": "Medio",
-    "firstName": "Enigma",
-    "lastName": "",
-    "image": "xbuyer-team-69.webp",
-    "name": "Enigma ",
-    "id": "xbuyer-team-69",
-    "team": {
-      "id": "xbuyer-team",
-      "name": "XBUYER TEAM",
-      "image": "https://kings-league-project-134.pages.dev/teams/logos/xbuyer.svg",
-      "imageWhite": "https://kings-league-project-134.pages.dev/teams/logos/xbuyer-inverse.svg"
-    }
-  },
-  {
     "role": "Delantero",
     "firstName": "David",
     "lastName": "Acedo",
@@ -473,6 +459,48 @@
       "name": "Los Troncos FC",
       "image": "https://kings-league-project-134.pages.dev/teams/logos/los-troncos.svg",
       "imageWhite": "https://kings-league-project-134.pages.dev/teams/logos/los-troncos-inverse.svg"
+    }
+  },
+  {
+    "role": "Medio",
+    "firstName": "Javi",
+    "lastName": "Márquez",
+    "image": "pio-fc-5.webp",
+    "name": "Javi Márquez",
+    "id": "pio-fc-5",
+    "team": {
+      "id": "pio-fc",
+      "name": "PIO FC",
+      "image": "https://kings-league-project-134.pages.dev/teams/logos/pio.svg",
+      "imageWhite": "https://kings-league-project-134.pages.dev/teams/logos/pio-inverse.svg"
+    }
+  },
+  {
+    "role": "Medio",
+    "firstName": "Rubén",
+    "lastName": "de la Red",
+    "image": "ultimate-mostoles-8.webp",
+    "name": "Rubén de la Red",
+    "id": "ultimate-mostoles-8",
+    "team": {
+      "id": "ultimate-mostoles",
+      "name": "Ultimate Móstoles",
+      "image": "https://kings-league-project-134.pages.dev/teams/logos/ultimate-mostoles.svg",
+      "imageWhite": "https://kings-league-project-134.pages.dev/teams/logos/ultimate-mostoles-inverse.svg"
+    }
+  },
+  {
+    "role": "Medio",
+    "firstName": "Enigma",
+    "lastName": "",
+    "image": "xbuyer-team-69.webp",
+    "name": "Enigma ",
+    "id": "xbuyer-team-69",
+    "team": {
+      "id": "xbuyer-team",
+      "name": "XBUYER TEAM",
+      "image": "https://kings-league-project-134.pages.dev/teams/logos/xbuyer.svg",
+      "imageWhite": "https://kings-league-project-134.pages.dev/teams/logos/xbuyer-inverse.svg"
     }
   },
   {
