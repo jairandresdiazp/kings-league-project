@@ -5,7 +5,6 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "astro": "astro",
     "build": "astro build",
     "dev:api": "wrangler dev api/index.js -l",
     "dev": "astro dev",
