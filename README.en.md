@@ -3,7 +3,7 @@
 
 [![Deploy API](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/deploy-api.yml/badge.svg?branch=main)](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/deploy-api.yml) [![Scrape Kings League Infojobs Website](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/scrape-kings-league-web.yml/badge.svg?branch=main)](https://github.com/jairandresdiazp/kings-league-project/actions/workflows/scrape-kings-league-web.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<h2><a href='https://kings-league-api-production.jairandresdiazp.workers.dev/'>API</a> | <a href='https://kings-league-project-134.pages.dev'>WEB</a></h2>
+<h2><a href='https://kingsleague-api.diazp.co/'>API</a> | <a href='https://kingsleague.diazp.co'>WEB</a></h2>
 </div>
 
 ![Mockup API Web](assets/static/ui-mockup-web-api.png)
@@ -46,7 +46,7 @@ If you would like to help us, please take a moment to read the [CONTRIBUTING.md]
 
 ## API
 
-Address: https://kings-league-api-production.jairandresdiazp.workers.dev/
+Address: https://kingsleague-api.diazp.co/
 
 The available endpoints are:
 

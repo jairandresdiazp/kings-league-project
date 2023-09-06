@@ -35,7 +35,7 @@ jobs:
       - name: Install lighthouse-badges
         run: pnpm add -g lighthouse-badges
       - name: Generate Badges
-        run: lighthouse-badges --urls https://kings-league-project-134.pages.dev/ https://kings-league-project-134.pages.dev/equipos/ -o test_results
+        run: lighthouse-badges --urls https://kingsleague.diazp.co/ https://kingsleague.diazp.co/equipos/ -o test_results
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:

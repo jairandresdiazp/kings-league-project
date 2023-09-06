@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kings-league-project-134.pages.dev/sitemap-index.xml
+Sitemap: https://kingsleague.diazp.co/sitemap-index.xml

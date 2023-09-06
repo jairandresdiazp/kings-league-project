@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap'
 import tailwind from '@astrojs/tailwind'
 import critters from 'astro-critters'
 
-const website = 'https://kings-league-project-134.pages.dev/'
+const website = 'https://kingsleague.diazp.co/'
 
 // https://astro.build/config
 export default defineConfig({
